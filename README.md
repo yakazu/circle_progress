@@ -1,1 +1,1 @@
-# circle_progress
+# SwiftUIで円形の進捗表示
